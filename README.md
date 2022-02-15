@@ -22,6 +22,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### Notes
 - App would display an empty black screen once I implemented the Tab View Controller
 - Fixed it by noticing the initial arrow pointing to Navigation Controller when it should be pointing to the Tab View Controller
+- Still Having trouble uploading the code to GitHub
 
 
 
