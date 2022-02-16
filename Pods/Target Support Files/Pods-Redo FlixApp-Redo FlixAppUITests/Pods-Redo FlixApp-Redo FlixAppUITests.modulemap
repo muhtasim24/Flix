@@ -1,0 +1,6 @@
+framework module Pods_Redo_FlixApp_Redo_FlixAppUITests {
+  umbrella header "Pods-Redo FlixApp-Redo FlixAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
